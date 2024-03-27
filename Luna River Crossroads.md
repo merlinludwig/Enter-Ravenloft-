@@ -1,0 +1,3 @@
+The road comes to an X intersection, with branches to the northwest, northeast, southwest, and southeast. The lower half of a snapped wooden signpost thrusts upward at an angle near the eastern elbow of the intersection. The top half of the sign, featuring arms pointing in four directions, lies in the weeds nearby.
+
+The Old Svalich Road, which runs northeast to southwest between [[Vallaki]] and [[Krezk]], is generally level. About a quarter mile along the northeast branch, an arching stone bridge crosses the Luna River.

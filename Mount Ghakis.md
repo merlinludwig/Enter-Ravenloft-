@@ -1,0 +1,3 @@
+![Mount Ghakis](https://cdn.discordapp.com/attachments/1050639611484983306/1050738672892395634/mount-ghakis.png?ex=660fe325&is=65fd6e25&hm=1bc7ff495570b9153a47c285f09e66e7541176a3f5121fb6ad88ed4e16b7ea87&)
+
+The road fades away under a covering of snow, but it takes you far enough to see the facade of some kind of temple carved into the sheer mountainside ahead. The front of the structure is fifty feet high and has six alcoves containing twenty-foot-tall statues. Each statue is carved from a single block of amber and depicts a faceless, hooded figure, its hands pressed together in a gesture of prayer. Between the two innermost statues is a twenty-foot-tall archway with a staircase leading down.

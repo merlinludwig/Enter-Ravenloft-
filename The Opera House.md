@@ -1,0 +1,5 @@
+Music chimes throughout the [[Slavich Woods]] as the unseen sun sets over the valley and as the final bits of daylight disappear. In a sudden burst of what appears to be arcane power, an opera house begins to rebuild itself from ruins with walls covered in golden wallpaper, silver statues, velvet flooring, and a crystal chandelier.
+
+People say there was an opera house like this centuries ago but it burned away, why would it rise again? no one knows and many believe it is just a silly illusion that was created to spook a few adventurers, but those who receive a letter from a mysterious O.G. we'll find out this is much more than just some silly little parlor trick.
+
+![Opera House](https://cdn.discordapp.com/attachments/1158840258012647554/1158840258268512378/IMG_1631.jpeg?ex=660c5517&is=65f9e017&hm=6ebb77a4a794e4b40f77d65a40556ec2e7b63e57909cd224eeeffe2a2ffb98b5&)

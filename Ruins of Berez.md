@@ -1,0 +1,3 @@
+The trail hugs the river for several miles. The dirt and grass soon turn to marsh as the trail dissolves into spongy earth pockmarked with stands of tall reeds and pools of stagnant water. A thick shroud of fog covers all. Scattered throughout the marsh are old peasant cottages, their walls covered with black mildew, their roofs mostly caved in. These decrepit dwellings seem to hunker down in the mire, as though they have long since given up on escaping the thick mud. Everywhere you look, black clouds of flies dart about, hungry for blood.
+
+The fog is much thinner on the far side of the river, where a light flashes amid a dark ring of standing stones.

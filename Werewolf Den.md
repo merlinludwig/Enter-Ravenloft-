@@ -1,0 +1,1 @@
+Above the tree line, carved into the side of a rocky mountain spur, is a wide, torchlit cave that looks like the gaping maw of a great wolf.

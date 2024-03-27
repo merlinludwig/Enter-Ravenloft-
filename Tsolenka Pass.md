@@ -1,0 +1,3 @@
+Tsolenka Pass is a gravel road that hugs [[Mount Ghakis]], climbing to great heights. The road starts at the [[Raven River crossroads]] and travels seven miles to a gatehouse and a guard tower, as well as a stone bridge that spans the Luna River. Wind and snow make the journey treacherous. Without some way to keep warm, characters who aren't dressed for cold weather suffer the effects of extreme cold at night.
+
+A creature exposed to the cold must succeed on a DC 10 Constitution saving throw at the end of each hour or gain one level of exhaustion. Creatures with resistance or immunity to cold damage automatically succeed on the saving throw, as do creatures wearing cold weather gear (thick coats, gloves, and the like) and creatures naturally adapted to cold climates.

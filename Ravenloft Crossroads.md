@@ -1,0 +1,1 @@
+Even here, in the mountains, the forest and the fog are inescapable. Ahead, the dirt road splits in two, widening toward the east. There you see patches of cobblestone, suggesting that the eastern branch was once an important thoroughfare.
