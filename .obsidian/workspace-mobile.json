@@ -4,133 +4,20 @@
     "type": "split",
     "children": [
       {
-        "id": "0917f2011eb1edc6",
+        "id": "d9aee3b12b89c8e1",
         "type": "tabs",
         "children": [
           {
-            "id": "24f706676a6ce4c6",
+            "id": "095103cf7f7d3773",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Vallaki.md",
-                "mode": "preview",
-                "source": true
-              }
-            }
-          },
-          {
-            "id": "992bf70f3987d1e1",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Vistani Camp.md",
+                "file": "Smouldering Ruins of the Librium Arcanum.md",
                 "mode": "source",
                 "source": false
               }
             }
-          },
-          {
-            "id": "00253f3bee60157f",
-            "type": "leaf",
-            "state": {
-              "type": "graph",
-              "state": {}
-            }
-          },
-          {
-            "id": "34d61a9fd07862a5",
-            "type": "leaf",
-            "state": {
-              "type": "graph",
-              "state": {}
-            }
-          }
-        ],
-        "currentTab": 2
-      },
-      {
-        "id": "66c8843075c5b6ca",
-        "type": "tabs",
-        "children": [
-          {
-            "id": "3eadd29e29685879",
-            "type": "leaf",
-            "state": {
-              "type": "localgraph",
-              "state": {
-                "file": "The Opera House.md",
-                "options": {
-                  "collapse-filter": false,
-                  "search": "",
-                  "localJumps": 5,
-                  "localBacklinks": true,
-                  "localForelinks": true,
-                  "localInterlinks": false,
-                  "showTags": false,
-                  "showAttachments": false,
-                  "hideUnresolved": false,
-                  "collapse-color-groups": true,
-                  "colorGroups": [],
-                  "collapse-display": true,
-                  "showArrow": false,
-                  "textFadeMultiplier": 0,
-                  "nodeSizeMultiplier": 1,
-                  "lineSizeMultiplier": 1,
-                  "collapse-forces": true,
-                  "centerStrength": 0.518713248970312,
-                  "repelStrength": 10,
-                  "linkStrength": 1,
-                  "linkDistance": 250,
-                  "scale": 1.572824706696473,
-                  "close": true
-                }
-              }
-            },
-            "group": "0e678455b6f2491f"
-          }
-        ]
-      },
-      {
-        "id": "08d4f72cc53b6065",
-        "type": "tabs",
-        "children": [
-          {
-            "id": "fa0ce4a47ff14568",
-            "type": "leaf",
-            "state": {
-              "type": "localgraph",
-              "state": {
-                "file": "The Opera House.md",
-                "options": {
-                  "collapse-filter": true,
-                  "search": "",
-                  "localJumps": 1,
-                  "localBacklinks": true,
-                  "localForelinks": true,
-                  "localInterlinks": false,
-                  "showTags": false,
-                  "showAttachments": false,
-                  "hideUnresolved": false,
-                  "collapse-color-groups": true,
-                  "colorGroups": [],
-                  "collapse-display": true,
-                  "showArrow": false,
-                  "textFadeMultiplier": 0,
-                  "nodeSizeMultiplier": 1,
-                  "lineSizeMultiplier": 1,
-                  "collapse-forces": true,
-                  "centerStrength": 0.518713248970312,
-                  "repelStrength": 10,
-                  "linkStrength": 1,
-                  "linkDistance": 250,
-                  "scale": 1,
-                  "close": true
-                }
-              }
-            },
-            "group": "0e678455b6f2491f"
           }
         ]
       }
@@ -198,6 +85,7 @@
         "state": {
           "type": "backlink",
           "state": {
+            "file": "Smouldering Ruins of the Librium Arcanum.md",
             "collapseAll": false,
             "extraContext": false,
             "sortOrder": "alphabetical",
@@ -214,6 +102,7 @@
         "state": {
           "type": "outgoing-link",
           "state": {
+            "file": "Smouldering Ruins of the Librium Arcanum.md",
             "linksCollapsed": false,
             "unlinkedCollapsed": true
           }
@@ -224,7 +113,9 @@
         "type": "leaf",
         "state": {
           "type": "outline",
-          "state": {}
+          "state": {
+            "file": "Smouldering Ruins of the Librium Arcanum.md"
+          }
         }
       }
     ],
@@ -237,37 +128,39 @@
       "canvas:Create new canvas": false,
       "daily-notes:Open today's daily note": false,
       "templates:Insert template": false,
-      "command-palette:Open command palette": false
+      "command-palette:Open command palette": false,
+      "publish:Publish changes...": false
     }
   },
-  "active": "00253f3bee60157f",
+  "active": "095103cf7f7d3773",
   "lastOpenFiles": [
-    "Lay of the Land.md",
-    "Untitled.canvas",
-    "Yester Hill.md",
-    "Werewolf Den.md",
-    "Vistani Camp.md",
     "Village of Barovia.md",
-    "Van Richten's Tower.md",
     "Vallaki.md",
-    "Tsolenka Pass.md",
-    "Tser Pool Encampment.md",
+    "The Dead Poacher’s Society.md",
     "Tser Pool.md",
-    "Tser Falls.md",
-    "The Wizard of Wines.md",
-    "Raven River Crossroads.md",
-    "The Porcelain Sisters.md",
-    "The Opera House.md",
-    "The Graveyard.md",
-    "The Amber Temple.md",
-    "Slavich Woods.md",
-    "Ruins of Berez.md",
-    "Berez.md",
+    "Tser Pool Encampment.md",
+    "Lay of the Land.md",
+    "Distant Building.md",
+    "Argynvostholt.md",
+    "Index.md",
+    "Trellum.md",
+    "Atamos.md",
+    "Uyut.md",
+    "Umbrae.md",
+    "Vallaki Town Square.md",
+    "Tsolenka Pass.md",
+    "Krezk.md",
+    "Shrine of the White Sun.md",
+    "Main Avenue.md",
+    "Gates of Krezk.md",
     "River Ivlis.md",
-    "River Ivlis Crossroads.md",
-    "Razzle Dazzle.md",
-    "Ravenloft Crossroads.md",
-    "Old Slavich Road.md",
-    "Barovia Map.png"
+    "Lake Zarovich.md",
+    "Church Ruins.md",
+    "Barovia Map.png",
+    "Smouldering Ruins of the Librium Arcanum.md",
+    "Black Rabbit Barfighters.md",
+    "Svalich Woods.md",
+    "The Forge.md",
+    "Untitled.canvas"
   ]
 }
